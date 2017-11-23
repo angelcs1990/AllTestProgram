@@ -1,0 +1,687 @@
+/* 
+  Localizable.strings
+  YiBiFen
+
+  Created by Ng on 15/12/8.
+  Copyright © 2015年 hhly. All rights reserved.
+*/
+
+"One Score" = "壹比分";
+
+
+"-"         = "-";
+//视频播放
+"Video broadcast" = "視頻直播";
+"Live in"         = "視頻直播中";
+"Video Over"      = "直播結束";
+"Select channel"  = "請選擇直播頻道";
+
+"Back"            = "返回上一頁";
+"Continue"        = "是否繼續";
+"Not wifi environment" = "不在wifi环境下";
+
+//========1.侧滑栏及首页部分=========
+"Home Page" = "壹比分";
+"Football Scores" = "足球比分";
+"Switch Language" = "語言切換";
+"Prospect" = "五點探營";
+"About us" = "關於我們";
+"Live Score" = "即時比分";
+
+"Lottery Draw" = "彩票開獎";
+"Hot Matches"               = "熱門賽事";
+"Hot Information"           = "熱點資訊";
+"Results" = "開獎结果";
+"Lottery draw for phase XX" = "期開獎";
+"side_logo" = "side_logo_hkg";
+"HomeMenuFBScore" = "足球比分";
+"HomeMenuFBVideo" = "足球視頻";
+"HomeMenuFBZhiShu" = "足球指數";
+"HomeMenuFBData" = "足球數據";
+"HomeMenuFBInfo" = "足球資訊";
+"HomeMenuBasketScore" = "籃球比分";
+"HomeMenuHongkong" = "香港開獎";
+"HomeMenuLottery" = "彩票開獎";
+"HomeMenuQixingcai" = "七星彩";
+"HomeSetting" = "設置";
+"HomeSettingShareToFriends"  = "分享給好友";
+"HomeSettingMark" = "給我們評分";
+"HomeFBFirstHalf" = "上半場";
+"HomeFBSecondHalf" = "下半場";
+
+"HomeBBFirst" = "第一節";
+"HomeBBSecond" = "第二節";
+"HomeBBThree" = "第三節";
+"HomeBBFour" = "第四節";
+
+"HomeTabBarScore"= "比分";
+"HomeTabBarInfo"= "資訊";
+"HomeTabBarVideo"= "視頻";
+"HomeTabBarData" = "數據";
+"HomeTabBarIndex" = "指數";
+
+"HomeNavScore"= "足球比分";
+"HomeNavInfo" = "足球資訊";
+"HomeNavVideo" = "足球視頻";
+"HomeNavData" = "足球數據";
+//========2.足球及足球设置、筛选部分=========
+
+"Score_Match" = "賽事";
+"Score_Mine" = "我的";
+"Live" = "即時";
+"Results" = "賽果";
+"Schedule" = "賽程";
+"Favourite" = "關注";
+"Cancel Favourite" = "取消關注";
+"SelectEvent" = "足球篩選";
+"Select Status" = "狀態篩選";
+"All Events " = "所有賽事";
+"Other events" = "其他賽事";
+
+"Asian Odds" = "亞盤";
+"European Odds" = "歐賠";
+"FBO/U" = "大小球";
+"Not Displayed" = "不顯示";
+"Sound1" = "聲音1";
+"Sound2" = "聲音2";
+"Sound3" = "聲音3";
+"Silent" = "無聲";
+
+"Focus" = "焦點";
+"Hot" = "熱門";
+"Select All" = "全選";
+"Inverse" = "反選";
+"FBConfirm" = "確定";
+"Settings" = "足球設置";
+"Select" = "篩選";
+
+"Hide"="隱藏";
+"games"="場";
+"Remind Set" = "提醒設置";
+"Other Settings" = "其他設置";
+
+"Goal Vibrate" = "進球震動";
+"Home Goal Sound" = "主隊進球聲";
+"Away Goal Sound" = "客隊進球聲";
+"Red Card Vibrate" = "紅牌震動";
+"Red Card Sound" = "紅牌聲音";
+"Only Valid to Favourite" = "僅提示關注賽事";
+"Odds Show" = "賠率顯示";
+
+"Push This Start And End" = "推送本場開場完場消息";
+"Push This Goal" = "推送本場進球消息";
+"Push This Redpai" = "推送本場紅牌消息";
+
+"Set the sound and shake for followed match." = "設置關註賽事的進球或紅牌聲音震動效果.";
+"The switch for starting time.\nYou can also set it in live page." = "關註球隊的事件消息開關.\n妳也可在每場比賽直播頁通過開關設置.";
+"The switch for event in match." = "比賽直播中重點事件的效果開關.";
+
+"YBFTeamFollower" = "球隊關注";
+"YBFRaceFollower" = "聯賽關注";
+
+"YBFMatchSortByTime" = "賽事按時間排序";
+"YBFShowOdd" = "賠率顯示";
+
+"YBFGoalSoundAndShake" = "進球音效＋震動";
+"YBFRedSoundAndShake" = "紅牌音效＋震動";
+
+"YBFMatchBeginAndEndPush" = "開賽/結束推送系統消息";
+"YBFGoalPush" = "進球推送系統消息";
+"YBFRedPush" = "紅牌推送系統消息";
+
+"YBFAnaimatin" = "動畫";
+"YBFSoundAndShake" = "音效＋震動";
+
+"Monday" = "週一";
+"Tuesday" = "週二";
+"Wednesday" = "週三";
+"Thursday" = "週四";
+"Friday" = "週五";
+"Saturday" = "週六";
+"Sunday" = "週日";
+"Select Date"="日期選擇";
+
+"EnMonday"                  = "Mon";
+"EnTuesday"                 = "Tue";
+"EnWednesday"               = "Wed";
+"EnThursday"                = "Thur";
+"EnFriday"                  = "Fri";
+"EnSaturday"                = "Sat";
+"EnSunday"                  = "Sun";
+
+"HT"="中場";
+"Play-off"="加";
+"Penalty Kick"="點";
+"Cancel"="取消";
+"Undetermined"="待定";
+"Abandoned"="腰斬";
+"Interrupted"="中斷";
+"Postponed"="推遲";
+"Entertained"="封";
+"MatchEvent"="賽事";
+"CustomFollow" = "定制關注";
+"Custom" = "定制";
+"MyFollow" = "我的關注";
+"FBTeam"    = "球隊";
+
+"FBLeague"  = "聯賽";
+"FollowChangeConfirm" = "您的關注有改動,是否保存";
+"FollowDeleteConfirm" = "確定取消關注嗎";
+"add"  = "新增";
+"delete"  = "刪除";
+"FollowNoMatch" = "你關注的球隊或聯賽近期沒有比賽";
+"MoreTeam" = "更多球隊";
+"redpushIcon" = "redpush";
+"redshakeIcon" = "redshake";
+//========3.彩票及彩票设置部分=========
+
+"Phase%@" = "第%@期";
+"Mark Six Lottery" = "香港開獎";
+
+"Beijing Car Racing" = "北京賽車";
+"Seven-Color Lottery" = "七星彩";
+"Guangdong Happy Lottery" = "廣東快樂十分";
+"Hunan Happy Lottery" = "湖南快樂十分";
+"Chongqing Lucky Farm" = "重慶幸運農場";
+"Chongqing Instant Lottery" = "重慶時時彩";
+"Xinjiang Instant Lottery" = "新疆時時彩";
+"Yunnan Instant Lottery" = "雲南時時彩";
+"Tianjin Instant Lottery" = "天津時時彩";
+"Jiangxi Instant Lottery" = "江西時時彩";
+"Guangdong 11 select 5" = "廣東十一選五";
+"Jiangsu 11 select 5" = "江蘇十一選五";
+"Jiangsu 11 \nselect 5" = "江蘇十一選五";
+"Shandong 11 select 5" = "山東十一選五";
+"Anhui Fast 3" = "安徽快3";
+"Jiangsu Fast 3" = "江蘇快3";
+"Guangxi Fast 3" = "廣西快3";
+
+"Lottery Draw at 20:30 on every Tuesday, Friday and Sunday" = "每週二、五、日晚20:30開獎";
+"Daytime 72 phases, 1 phase per 10 minutes; Night 48 phases, 1 phase per 5 minutes" = "白天72期，10分鐘一期；晚上48期，5分鐘一期";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-23:00" = "每天84期，10分鐘一期，9:00~23:00";
+"96 phases everyday, 1 phase per 10 minutes, 10:00-2:00" = "每天96期，10分鐘一期，10:00~2:00";
+"72 phases everyday, 1 phase per 10 minutes, 10:00-21:50" = "每天72期，10分鐘一期，10:00~21:50";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-23:00" = "每天84期，10分鐘一期，9:00~23:00";
+"80 phases everyday, 1 phase per 10 minutes, 8:30-22:00" = "每天80期，10分鐘一期，8:30~22:00";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-22:00" = "每天84期，10分鐘一期，9:00~22:00";
+"82 phases everyday, 1 phase per 10 minutes, 8:30-22:00" = "每天82期，10分鐘一期，8:30~22:00";
+"179 phases everyday, 1 phase per 5 minutes, 9:00-0:00" = "每天179期，5分鐘一期，9:00-0:00";
+"78 phases everyday, 1 phase per 10 minutes, 9:30-22:30" = "每天78期，10分鐘一期，9:30~22:30";
+"97 phases everyday, 1 phase per 10 minutes, 0:00-2:00 10:00-0:00" = "每天97期，10分鐘一期，0:00~2:00 10:00~0:00";
+"82 phases everyday, 1 phase per 10 minutes, 8:30-22:10" = "每天82期，10分鐘一期，8:30~22:10";
+"78 phases everyday, 1 phase per 10 minutes, 9:00-22:00" = "每天78期，10分鐘一期，09:00~22:00";
+
+"The Latest Lottery Draw" = "最新開獎";
+"The Past Lottery Draw" = "往期開獎";
+"Mark Six Lottery Draw Countdown" = "香港開獎倒計時";
+"Seven-Color Lottery Draw Countdown" = "七星彩開獎倒計時";
+"In Lottery Draw…" = "正在開獎中···";
+"suspend" = "截止銷售";
+"d" = "天";
+"h" = "時";
+"m" = "分";
+"s" = "秒";
+
+"Rat" = "鼠";
+"Cow" = "牛";
+"Tiger" = "虎";
+"Rabbit" = "兔";
+"Dragon" = "龍";
+"Snake" = "蛇";
+"Horse" = "馬";
+"Sheep" = "羊";
+"Monkey" = "猴";
+"Chook" = "雞";
+"Dog" = "狗";
+"Pig" = "豬";
+
+"Special Number" = "特碼";
+"Total" = "總分";
+"Chinese Zodiac" = "生肖";
+"Poultry & Beast" = "家野";
+"O/E" = "單雙";
+"O/U" = "大小";
+"Color" = "波色";
+"Score" = "分值";
+"Beast" = "野獸";
+
+"Red" = "紅色";
+"Blue" = "藍色";
+"Green" = "綠色";
+
+"Odd" = "單";
+"Even" = "雙";
+"Over" = "大";
+"Under" = "小";
+
+"Sum of No.1 & No.2" = "冠亞和";
+"Dragon/Tiger" = "龍虎";
+"Champion" = "冠軍";
+"Runner-up" = "亞軍";
+"Mantissa" = "尾數";
+
+"Lottery Draw List" = "開獎列表";
+"Customized Lottery" = "定制彩種";
+
+"Have customized lottery" = "已經定制彩種";
+"Long press to drag label sequence" = "長按並拖動標簽排序";
+"You have no customized lottery" = "用戶沒有定制彩種";
+
+"Long press to drag label sequence" = "長按可拖動標籤排序";
+"You have no customized lottery" = "用戶沒有定制彩種";
+
+"Click to customize more lotteries" = "點擊定制更多彩種";
+"Reset" = "重置";
+
+"Sum" = "和";
+"Confirm" = "确认";
+"1st Ball" = "第一球";
+"2nd Ball" = "第二球";
+"3rd Ball" = "第三球";
+"4th Ball" = "第四球";
+"No.1" = "第一位";
+"No.2" = "第二位";
+"No.3" = "第三位";
+"No.4" = "第四位";
+"No.5" = "第五位";
+"No.6" = "第六位";
+"No.7" = "第七位";
+"Third" = "第三名";
+"Fourth" = "第四名";
+"Fifth" = "第五名";
+"Poultry" = "家禽";
+"Countdown:" = "最新開獎倒計時:";
+"Mon." = "週一";
+"Tues." = "週二";
+"Wed." = "週三";
+"Thur." = "週四";
+"Fri." = "週五";
+"Sat." = "週六";
+"Sun." = "週日";
+
+//========4.语言切换部分=========
+"Save" = "保存";
+"NoSave"                = "不保存";
+"Simplified Chinese" = "简体中文";
+"Traditional Chinese" = "繁體中文";
+
+
+//========5.产品简介部分=========
+"Product Brief Introduction" = "產品簡介";
+"PC" = "PC電腦端";
+"WAP" = "WAP手機端";
+
+"Wechat Subscription Number"                = "微信訂閱號";
+"Official WeChat group"              = "官方微信群";
+"Customer Service Phone"             = "客服電話";
+"Official QQ group"                  = "官方QQ群";
+"Sina Weibo"                         = "新浪微博";
+"Hua Ying Haile all rights reserved" = "華海樂盈 版權所有";
+
+"One Score, concentrating on sports score and lottery draw, currently has the fastest display speed of scores and lotteries in the industry" = "壹比分，專注於體育比分和彩票開獎的產品，目前比分、角球響應速度業內領先。";
+"Text copied" = "文本已復制";
+"LinkURL copied" = "鏈接已復制";
+
+
+//========6.网络及刷新部分=========
+"Pull-down to refresh" = "下拉可以刷新";
+"Loosen to refresh" = "鬆開立即刷新";
+"Refreshing…" = "正在刷新數據中...";
+"Last Update"="最後更新";
+"Loading more data…" = "正在加載更多數據...";
+"Not more data"      = "沒有更多數據了";
+
+"No Favourite"="暫無關注";
+"Slide left to follow this match"="左滑賽事,可關注該賽事";
+"Under your screening condition, there is 0 match(s)"="您篩選條件下賽事為0場";
+"Your current network is poor... " = "當前網絡不給力";
+
+"Your current network is poor" = "您當前的網絡不給力";
+"Please check" = "請檢查網絡后";
+"No Match" = "暫無賽事";
+"Match data load failed" = "比賽數據加載未成功";
+
+"It seems to be disconnected with the Internet" = "似乎已斷開與互聯網的連接";
+"Refresh" = "刷新";
+
+"Cellular mobile data has been closed" = "蜂窩移動數據已關閉";
+"Open cellular mobile or wireless LAN to access data" = "請打開蜂窩移動數據或無線局域網來訪問數據";
+"OK" = "好";
+"500error" = "請求出現異常,請稍後重試";
+"close" = "關閉";
+"retry" = "重試";
+"edit"  = "編輯";
+"EditSuccess"  = "修改成功";
+//========7 篮球部分 ===========
+"basketBall"                                    = "籃球比分";
+"halfOrAllScore"                                = "半/全場總分";
+"allScoreDifference"                            = "總分差";
+"singleScore"                                   = "單節得分";
+"basketballRanking"                             = "排名";
+
+"basketballNotShow"                             = "無";
+"winOrFail"                                     = "勝負";
+"basketballHomeTeam"                            = "主隊";
+"basketballAll"                                 = "總";
+"basketballMatchWarn"                           = "賽事提示";
+"basketballOddsWarn"                            = "賠率提示";
+"BBReset"                                       = "重置";
+"NO Follow Match"                               = "暫無關注";
+"SelectBasketballEvent"                         = "籃球篩選";
+"basketballSet"                                 = "籃球設置";
+
+"had select"                                    = "已選擇";
+"fourCompanyNoMore"                             = "家(最多可選擇4家)";
+
+"today"                                         = "今日";
+"yesterday"                                     = "昨日";
+"tomorrow"                                      = "明日";
+"Difference"                                    = "差";
+//========8 足球详情 =======
+"Match" = "直播";
+"Analysis"="分析";
+"Index"="指數";
+"Kick-off"="開賽時間";
+"Weather"="天氣";
+"Stadium"="場地";
+"Starting"="首發";
+"No badge"="暫無隊徽";
+"Text Live"="文字";
+"Line-up"="陣容";
+"Corner Trend"="角球走勢";
+"Danger Trend"="攻防走勢";
+"Danger"="危險進攻";
+"on target"="射正球門";
+"off target"="射偏球門";
+"Statistics"="資料統計";
+"HT"="中場";
+"FT"="完場";
+"HT2"="半";
+"HT3"="中";
+"FT2"="完";
+"Home Team"="主隊";
+"Away Team"="客隊";
+"Time"="時間";
+"Corner"="角球";
+"Home List"="主隊名單";
+"Away List"="客隊名單";
+"No starting"="暫無首發";
+"No lineup"="暫無陣容";
+"Match Data"="統計";
+"Shoots"="射門";
+"Saves"="撲救";
+"Corners"="角球";
+"Offsides"="越位";
+"Yellow Cards"="黃牌";
+"Red Cards"="紅牌";
+"Shot on goalpost"="中柱";
+"Fouls"="犯規";
+"Throw-ins"="界外球";
+"Free kicks"="任意球";
+"Dangerous free kick"="危險任意球";
+"Please look forward to..."="敬請期待";
+"No data"="暂无数据";
+"No start"="未開";
+"Mid" = "中場";
+"No Live Data" = "暫無直播信息";
+
+"Good" = "晴";
+"Windy" = "風";
+"Stomy" = "小雨";
+"Rainy" ="大雨";
+"Snowy" = "雪";
+"VeryHot" = "很熱";
+"HeavyRain" = "大雨";
+"LightRain" = "小雨";
+"Cloudy" = "多雲";
+"HeavySnowy" = "大雪";
+"LightSnowy" = "小雪";
+"Sleet" = "雨夾雪";
+"HeavyWindy" = "大風";
+"LightWindy" = "風";
+"Sunny" = "晴";
+"WHotv" = "熱";
+"Mild" = "溫和";
+"Cold" = "寒冷";
+"Fog" = "霧";
+"Thunderstorm" = "雷夾雨";
+"Live Over" = "完場";
+"Live Over Msg" = "直播結束,謝謝您的觀看！";
+"Click or pull up to load more" = "點擊或上拉加載更多";
+
+"match cancel" = "取消";
+"match live cancel"="取消直播";
+"match delay"="推遲";
+"match cut"="腰斬";
+"match undetermined"="待定";
+"match interrupt"="中斷";
+
+"Trend" ="走勢";
+"Event" ="事件";
+
+"Title_HomeCorner" = "主隊角球";
+"Title_GuestCorner" = "客隊角球";
+
+"Title_HomePenaltyKick" = "主隊點球";
+"Title_GuestPenaltyKick" = "客隊點球";
+
+"Title_HomeGoal" = "主隊進球";
+"Title_GuestGoal" = "客隊進球";
+
+"Title_HomeCancelGoal" = "取消主隊進球";
+"Title_GuestCancelGoal" = "取消客隊進球";
+
+"Title_HomeRedCard" = "主隊紅牌";
+"Title_GuestRedCard" = "客隊紅牌";
+
+"Title_HomeYellowToRed" = "主隊兩黃變紅牌";
+"Title_GuestYellowToRed" = "客隊兩黃變紅牌";
+
+"Title_HomeSubstitution" = "主隊換人";
+"Title_GuestSubstitution" = "客隊換人";
+
+"Title_Number" = "號";
+
+"Event_Substitution" = "換人";
+"Event_Zhang" = "張";
+"Event_Ge" = "個";
+"Event_Substitution_In" = "上場";
+"Event_Substitution_Out" = "下場";
+"Event_Substitution_format" = "%@號%@上場 %@号%@下場";//@"1号张三上场 %2号李四出场"
+//足球详情 指数
+"footBallHomeTeam"          = "主隊";
+"footBallGuestTeam"         = "客隊";
+"footBallHomeTeamLineChart"= "主隊 ——";
+"footBallGuestTeamLineChart"= "客隊 ——";
+"footBallAttack"            = "攻防";
+"footBallCorner"            = "角球";
+"footBallTime"              = "時間";
+
+"footBallInstantOdd"        = "即賠";
+"footBallInitialOdd"        = "初賠";
+
+"footBallHand"              = "盤口";
+"footBallHomeWin"           = "主勝";
+"footBallDraw"              = "平局";
+"footBallGuestWin"          = "客勝";
+"company"                   = "公司";
+"footBallBig"               = "大球";
+"footBallSmall"             = "小球";
+
+"footBallIndexNoData1"      = "暫無亞盤數據";
+"footBallIndexNoData2"      = "暫無歐賠數據";
+"footBallIndexNoData3"      = "暫無大小球數據";
+"letBall"                   = "讓球";
+"Rose plate"                = "漲盤";
+"upOrDownPlate"             = "漲跌差";
+"Down plate"                = "跌盤";
+"first plate"               = "初盤";
+"Back to list"              = "返回列表";
+//足球详情分析
+"FBDataScore_Win_Equ_Fail" = "勝/平/負";
+"FBAnalysis_Win" = "勝";
+"FBAnalysis_Equ" = "平";
+"FBAnalysis_Fail" = "負";
+"FBAnalysis_Win2"= "勝";
+"FBAnalysis_Equ2"= "平";
+"FBAnalysis_Fail2"= "負";
+"FBAnalysis_WinRate" = "勝率";
+"FBAnalysis_Goal" = "進";
+"FBAnalysis_Double" = "雙方近";
+"FBAnalysis_Home" = "主隊近";
+"FBAnalysis_Guest" = "客隊近";
+"FBAnalysis_Pk" = "次交鋒";
+"FBAnalysis_Spot" = "場";
+"FBAnalysis_Spot2" = "場";
+"FBFBAnalysis_Lose" = "失";
+"FBFBAnalysis_Get" = "得";
+
+"FBAnalysis_BallTeamRank" = "球隊排名";
+"FBAnalysis_MatchResultCompare" = "戰績對比";
+"FBAnalysisHomeAndGuestCompare" = "主客對比";
+"FBAnalysis_GoalPerMatch" = "場均進球";
+"FBAnalysis_LossPerMatch" = "場均失球";
+"FBAnalysis_Time" = "日期";
+"FBAnalysis_MatchType" = "賽事";
+"FBAnalysis_MatchResult" = "賽果";
+"FBAnalysis_TeamRank" = "積分排名";
+"FBAnalysis_GoalAndLoss" = "得失球";
+"FBAnalysis_DataCount" = "獨家推薦";
+"FBAnalysis_HistoryBattle" = "歷史對戰";
+"FBAnalysis_HomeTeamState" = "主隊近況";
+"FBAnalysis_GuestTeamState" = "客隊近況";
+"FBAnalysis_TipNotMatchBetweenBoth" = "雙方暫無歷史交鋒";
+"FBAnalysis_TipNotMatchForHome" = "主隊近期無對戰";
+"FBAnalysis_TipNotMatchForGuest" = "客隊近期無對戰";
+"FBAnalysi_TipNotAnalysis" = "本場比賽暫無分析";
+"FBAnalysis_Recommend" = "推薦";
+//足球积分榜
+"integralTable" = "積分榜";
+"FBmatch" = "賽";
+"goalAndLoss" = "得/失";
+"abs" = "凈勝";
+"FBround" = "輪";
+"selectRound" = "選擇輪次";
+"NO Race" = "暫無賽程";
+"Done" = "完成";
+"Points" = "分";
+"No integralTable" = "暫無積分榜";
+//足球资讯
+"HotInfo" = "熱點資訊";
+"FBInfo" = "足球資訊";
+"Recommend" = "獨家推薦";
+"Media" = "網絡媒體";
+"Sports" = "競技彩";
+"Result" = "勝負彩";
+"Deep" = "深度分析";
+"See detail data" = "查看詳細數據";
+"NoInfoYet" = "暫無資訊";
+"Recommend" = "推薦";
+
+//足球视频
+"FootBallNoVideo" = "FootBallNoVideo_fan";
+
+//分享
+"Share_wechat" = "微信";
+"Share_friendCircle" = "朋友圈";
+"Share_tencent" = "QQ";
+"Share_qqzone" = "空間";
+"Share_sinaweibo" = "微博";
+"Share_copyLink" = "復制";
+"Share To" = "分享到";
+"A score of 5 seconds." = "壹比分-快5秒的體育比分。";
+"A score, score and focus on sports lottery products, the score, corner response speed of leading industry." = "壹比分，專註於體育比分和彩票開獎的產品，目前比分、角球響應速度業內領先。";
+"The fastest live event information, as soon as possible in a score." = "最快的實況賽事資訊，盡在壹比分。";
+
+
+//提示图片
+"NO League" = "NoLeague_T";
+"NO NetWork" = "withoutNet_T";
+"selete one company at least" = "至少選擇任一公司.";
+
+//登录
+"Personal Center" = "個人中心";
+"Login/Register" = "登錄/註冊";
+"More Settings" = "更多設置";
+"Modify Password" = "修改密碼";
+"Exit Current Account" = "退出當前賬號";
+"Password consists of 6-16 bit letters (case sensitive), numeric or character"="密碼由6-16位字母(區分大小寫)、數字或下劃線組成";
+"OriginalPassword"="原密碼";
+"Please enter a new password"="請輸入新密碼";
+"Please confirm the new password"="請確認新密碼";
+"ForgetPassword"="忘記密碼";
+"Please enter the original password"="請輸入原密碼";
+"Submit"="提交";
+
+"SignOneScore" = "登錄壹比分";
+"EnterThePhoneNumber" = "點擊輸入手機號登錄";
+"PleaseEnterAPassword" = "請輸入密碼";
+"Login" = "登 錄";
+"RegisterImmediately" = "立即註冊";
+"ThirdPartyLogin" = "第三方登錄";
+"PleaseEnteryourPasswordAgain" = "請再次輸入密碼";
+"Regist" = "註 冊";
+"UserRegistration" = "用戶註冊";
+"phoneNumber" = "手機號碼";
+"SMSVerificationCode" = "短信驗證碼";
+"SendSMSVerificationCode" = "發送短信驗證碼";
+"NextStep" = "下一步";
+"Registration means that you agree to a score of the user agreement" = "註冊即表示您同意壹比分的《用戶協議》";
+"UserAgreement" = "《用戶協議》";
+"After a second to send back" = "秒後重新發送";
+"Assure" = "確 定";
+"FindPassword" = "密碼找回";
+
+//登录注册的提示语
+"ThirdPartyLoginDoesNotSupportTheChangePasswordOh!" = "第三方登錄不支持修改密碼";
+"YouAreNotLoggedIn!" = "您還未登錄";
+"YBFReminder" = "溫馨提示";
+"Exit the account?" = "確定退出賬號？";
+"YBFYES" = "是";
+"YBFNO" = "否";
+"Background Jun lost!" = "後臺迷路了";
+"Two times the password is not consistent!" = "兩次輸入的密碼不一致";
+"Password length should be in 6-16 bit!" = "密碼長度應在6-16位";
+"Password modification success!" = "密碼修改成功";
+"Cell phone number can not be empty!" = "手機號碼不能為空";
+"You enter the phone number is wrong!" = "您輸入的手機號碼有誤";
+"Password can not be empty!" = "密碼不能為空";
+"Verification code cannot be empty!" = "驗證碼不能為空";
+"The password you entered is incorrect!" = "您輸入的密碼格式有誤";
+"The number you entered is not the current logon account!" = "您輸入的號碼不是當前的登錄賬號";
+"Get verification code" = "獲取驗證碼";
+"Please register first!" = "請您先註冊";
+
+
+"System error" = "系統錯誤";
+"Transfer parameters are incorrect" = "傳遞參數有誤";
+"Verification code error" = "驗證碼錯誤";
+"Verification code is invalid" = "驗證碼已失效";
+"Two send interval shall not be less than 60 seconds" = "兩次發送間隔不得小於60秒";
+"The phone number has been registered" = "該手機號已註冊";
+"Cell phone number is not legal" = "手機號碼不合法";
+"user does not exist" = "用戶不存在";
+"SMS failure" = "短信發送失敗";
+"The password you entered is incorrect." = "您輸入的密碼錯誤";
+"The original password you entered is incorrect." = "您輸入的原密碼有誤";
+
+"The user is not logged in" = "該用戶未登錄";
+"True name error" = "真實姓名錯誤";
+"ID card format error" = "身份證格式錯誤";
+"Background error" = "後臺報錯";
+"Registered success, has logged in" = "註冊成功，已登錄";
+"UserProtocal" = "用戶協議";
+
+//搜索
+"SearchPlaceholder" = "請輸入球隊名稱";
+"SearchNoResult" = "未能找到您的球隊";
+"SearchFail" = "請求失敗";
+
+//国际化新添加
+"Please enter username" = "請輸入用戶名";
+"User name from the 3-16 bit letter (case sensitive) or digital composition" = "用戶名由3-16位字母(區分大小寫)或數字組成";
+"UserName length should be in 3-16 bit" = "用戶名長度應在3-16位";
+"UserName format error" = "用戶名格式錯誤";
+"The username has been registered" = "用戶名已註冊";
+"Register failed" = "註冊失敗，請稍後再試";
+

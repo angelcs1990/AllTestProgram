@@ -1,0 +1,732 @@
+/* 
+  Localizable.strings
+  YiBiFen
+  越南
+  Created by Ng on 15/12/8.
+  Copyright © 2015年 hhly. All rights reserved.
+*/
+
+CFBundleDisplayName = "tỷ số nhất";
+
+"One Score"= "tỷ số nhất";
+
+
+"-"= "-";
+//Video Player
+"Video broadcast"= "Video trực tuyến";
+"Live in"= "Video  online";
+"Video Over"= "Trực tuyến kết thúc";
+"Select channel"= "Xin lựa chọn Live trực tiếp";
+
+"Back"= "Trở lại trang trước";
+"Continue"= "Tiếp tục hay không";
+"Not wifi environment"= "Môi trường không có Wìi";
+
+//"="="="="="="="=1.Thanh trượt và phần Trang chủ"="="="="="="="="=
+"Home Page"= "Tỷ số nhất";
+"Football Scores"= "Tỷ số bóng đá";
+"Switch Language"= " ngôn ngữ";
+
+"About us"= "Về chúng tôi";
+"Live Score"= "Tỷ số trực tiếp";
+"Lottery Draw"= "Sổ xổ giải thưởng";
+"Hot Matches"= "Trận đấu hot";
+"Hot Information"= "Thông tin hot";
+"Results"= "Kết quả giải thưởng";
+
+"Lottery draw for phase XX"= "Kỳ giải thưởng";
+"side_logo"= "side_logo_chn";
+"HomeMenuFBScore"= "Tỷ số ";
+"HomeMenuFBVideo"= "Video bóng đá";
+"HomeMenuFBZhiShu"= "Chỉ số ";
+"HomeMenuFBData"= "dữ liệu bóng đá";
+"HomeMenuFBInfo"= "Thông tin bóng đá";
+"HomeMenuBasketScore"= "Tỷ số bóng rổ";
+"HomeMenuHongkong"= "Xổ số HK ";
+"HomeMenuQixingcai"= "Sổ xổ bảy sao"; 
+"HomeSetting"= "Cài đặt";
+"HomeSettingShareToFriends"= "Chia sẻ với bạn bè";
+"HomeSettingMark"= "Đánh giá cho chúng tôi";
+"HomeFBFirstHalf"= "Hiệp 1";
+"HomeFBSecondHalf"= "Hiệp 2";
+
+"HomeBBFirst"= "Tiết thứ Nhất";
+"HomeBBSecond"= "Tiết thứ Hai";
+"HomeBBThree"= "Tiết thứ Ba";
+"HomeBBFour"= "Tiết thứ Tư";
+
+"HomeTabBarScore"= "Tỷ số";
+"HomeTabBarInfo"= "Thông tin";
+"HomeTabBarVideo"= "video";
+"HomeTabBarData"= "Dữ liệu";
+"HomeTabBarIndex"= "Chỉ  số ";
+
+"HomeNavScore"= "Tỷ số bóng đá";
+"HomeNavInfo"= "Thông tin bóng đá";
+"HomeNavVideo"= "Video bóng đá";
+"HomeNavData"= "Dữ liệu bóng đá";
+
+//"="="="="="="="=2Bóng đá và cài đặt bóng đá.phần lực chọn"="="="="="="="="=
+
+"Score_Match"= "Trận đấu";
+"Score_Mine"= "Mình";
+
+"Live"= "Trực tiếp";
+"Results"= "Kết quả";
+"Schedule"= "Lịch thi đấu";
+"Favourite"= "Thích";
+"Cancel Favourite"= "Hủy thích";
+"SelectEvent"= "Lựa chọn bóng đá";
+"Select Status"= "Lựa chọn trạng thái";
+"All Events"= "Tất cả giải đấu";
+
+"Asian Odds"= "Kèo châu Á";
+"European Odds"= "Tỷ lệ Châu âu";
+"FBO/U"= "Kèo tài xỉu";
+"Not Displayed"= "Không hiển thị";
+"Sound1"= "Âm thanh 1";
+"Sound2"= "Âm thanh 2";
+"Sound3"= "Âm thanh3";
+"Silent"= "Không có âm thanh";
+
+"Focus"= "Tiêu điểm";
+"Hot"= "Nóng";
+"Select All"= "Chọn tất cả";
+"Inverse"= "Chọn ngược";
+"FBConfirm"= "Xác nhận";
+"Settings"= "Cài đặt bóng đá";
+"Select"= "Lựa chọn";
+
+"Hide"="Ẩn ";
+"games"="Trận";
+"Remind Set"= "Cài đặt thông báo";
+"Other Settings"= "Cài đặt  khác";
+
+"Goal Vibrate"= "Rung động khi ghi bàn";
+"Home Goal Sound"= "Âm thanh khi đội nhà ghi bàn";
+"Away Goal Sound"= "Âm thanh khi đội khách ghi bàn";
+"Red Card Vibrate"= "Rung động khi có thẻ đỏ";
+"Red Card Sound"= "Âm thanh khi có thẻ đỏ";
+"Only Valid to Favourite"= "Chỉ quan tâm giải đấu nhắc nhở";
+"Odds Show"= "Hiển thị tỷ lệ";
+
+"Push This Start And End"= "Đẩy nhắn kết thúc của trận này ";
+"Push This Goal"= "Đẩy nhắn ghi bàn của trận này ";
+"Push This Redpai"= "Đẩy nhắn có thẻ đỏ của trận này";
+
+"Set the sound and shake for followed match."= " Cài đặt yêu thích ghi bàn của trận đấu hoặc hiệu quả rung động khi có thẻ đỏ  .";
+"The switch for starting time.\nYou can also set it in live page."= "Mở/Tắt tin tức động thái các loại bóng thích\nBạn có thể  cài đặt Mở/Tắt trong trang trực tuyến mỗi trận đấu .";
+"The switch for event in match."= "Mở/Tắt hiểu quả quan trọng sự kiện trong trực tiếp giải đấu.";
+
+"YBFTeamFollower"= "Yêu thích tuyển đội ";
+"YBFRaceFollower"= "Yêu thích liên đoàn";
+
+"YBFMatchSortByTime"= "Sắp xếp giải đấu theo thời gian";
+"YBFShowOdd"= "Hiện thị tỷ lệ";
+
+"YBFGoalSoundAndShake"= "Hiểu âm ghi bàn+Rung động";
+"YBFRedSoundAndShake"= "Hiểu âm thẻ đỏ+Rung động";
+
+"YBFMatchBeginAndEndPush"= "Đẩy tin hệ thống mở giải/kết thúc";
+"YBFGoalPush"= "Đẩy tin hệ thống ghi bàn";
+"YBFRedPush"= "Đẩy tin hệ thống có thẻ đỏ";
+
+"YBFAnaimatin"= "Hoạt hình";
+"YBFSoundAndShake"= "Hiểu âm+Rung động";
+
+"Monday"= "Thứ Hai";
+"Tuesday"= "Thứ Ba";
+"Wednesday"= "Thứ Tư";
+"Thursday"= "Thứ Năm";
+"Friday"= "Thứ Sáu";
+"Saturday"= "Thứ Bảy";
+"Sunday"= "Chủ nhật";
+"Select Date"="Lựa chọn thời gian";
+
+"EnMonday"= "Mon";
+"EnTuesday"= "Tue";
+"EnWednesday"= "Wed";
+"EnThursday"= "Thur";
+"EnFriday"= "Fri";
+"EnSaturday"= "Sat";
+"EnSunday"= "Sun";
+"Select Date"="Lựa chọn thời gian";
+
+"HT"="Tiền vệ";
+"Play-off"="Thêm";
+"Penalty Kick"="Điểm";
+"Cancel"="hủy";
+"Undetermined"="Chưa quyết định";
+"Abandoned"="Tạm dừng";
+"Interrupted"="Gián đoạn";
+"Postponed"="Hoãn lại";
+"Entertained"="Đóng";
+
+"MatchEvent"="Trận đấu";
+
+"had select"="Đã lực chọn";
+"fourCompanyNoMore"= "Nhà(tối đa được lựa chọn 4 nhà)";
+"CustomFollow"= "Yêu thích tùy chỉnh";
+"Custom" = "Đặt";
+"MyFollow"= "Yêu thích mình";
+"FBTeam"= "Tuyển đội";
+
+"FBLeague"= "Giải đấu liên đoàn";
+"FollowChangeConfirm"= "Yêu thích của bạn có thay đổi,lưu lại hay không";
+"FollowDeleteConfirm"= "Xác định hủy yêu thích không";
+"add"= "Thêm mới";
+"delete"= "Xóa";
+"FollowNoMatch" = "giải đấu thích không có";
+"MoreTeam" = "Nhiều đội bống";
+"redpushIcon" = "redpush-I18N";
+"redshakeIcon" = "redshake-I18N";
+//"="="="="="="="=3.Sổ xổ và phần cài đắt sổ xổ"="="="="="="="="=
+"Phase%@"="Thứ%@Kỳ";//
+
+"Mark Six Lottery"= "HK";
+
+"Beijing Car Racing"= "Đua xe Bắc Kinh";
+"Seven-Color Lottery"= "Xổ số bảy sao";
+"Guangdong Happy Lottery"= "Xổ số vui Quảng Đông";
+"Hunan Happy Lottery"= "Xổ số vui Hồ Nam";
+"Chongqing Lucky Farm"= "Nông trừơng may mắn Trùng Khánh";
+"Chongqing Instant Lottery"= "Xổ số liên tục Trùng Khánh";
+"Xinjiang Instant Lottery"= "Xổ số liên tục Tân Cương";
+"Yunnan Instant Lottery"= "Xổ số liên tục Vân Nam";
+"Tianjin Instant Lottery"= "Xổ số liên tục Thiên Tân";
+"Jiangxi Instant Lottery"= "Xổ số liên tục Giang Tây";
+"Guangdong 11 select 5"= "11 chọn 5 Quảng Đông";
+"Jiangsu 11 select 5"= "11 chọn 5 Giang Tô";
+"Jiangsu 11 \nselect 5"= "11 chọn 5 Giang Tô";
+"Shandong 11 select 5"= "11 chọn 5 Sơn Đông";
+"Anhui Fast 3"= "Nhanh 3 An Huy";
+"Jiangsu Fast 3"= "Nhanh 3 Giang Tô";
+"Guangxi Fast 3"= "Nhanh 3 Quảng Tây";
+
+"Lottery Draw at 20:30 on every Tuesday, Friday and Sunday"= "Giải thưởng vào  mỗi tuần thứ Ba.thứ Sáu.chủ nhật lúc 20:30";
+"Daytime 72 phases, 1 phase per 10 minutes; Night 48 phases, 1 phase per 5 minutes"= "Ban ngày có 72 kỳ，10 phút  một kỳ；Ban đêm có 48 kỳ，5 phút  một kỳ";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-23:00"= "Mỗi ngày có 84 kỳ,10 phút một kỳ,09:00~23:00";
+"96 phases everyday, 1 phase per 10 minutes, 10:00-2:00"= "Mỗi ngày có 96 kỳ,10 phút một kỳ,10:00~2:00";
+"72 phases everyday, 1 phase per 10 minutes, 10:00-21:50"= "Mỗi ngày có 72 kỳ,10 phút một kỳ,10:00~21:50";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-23:00"= "Mỗi ngày có 84 kỳ,10 phút một kỳ,09:00~23:00";
+"80 phases everyday, 1 phase per 10 minutes, 8:30-22:00"= "Mỗi ngày có 80 kỳ,10 phút một kỳ,08:30~22:00";
+"84 phases everyday, 1 phase per 10 minutes, 9:00-22:00"= "Mỗi ngày có 84 kỳ,10 phút một kỳ,09:00~22:00";
+"82 phases everyday, 1 phase per 10 minutes, 8:30-22:00"= "Mỗi ngày có 82 kỳ,10 phút một kỳ,08:30~22:00";
+"179 phases everyday, 1 phase per 5 minutes, 9:00-0:00"= "Mỗi ngày có 179 kỳ,5 phút một kỳ,09:00~00:00";
+"78 phases everyday, 1 phase per 10 minutes, 9:30-22:30"= "Mỗi ngày có 78 kỳ,10 phút một kỳ,9:30~22:30";
+"97 phases everyday, 1 phase per 10 minutes, 0:00-2:00 10:00-0:00"= "Mỗi ngày có 97 kỳ,10 phút một kỳ,0:00~2:00 10:00~0:00";
+"82 phases everyday, 1 phase per 10 minutes, 8:30-22:10"= "Mỗi ngày có 82 kỳ,10 phút một kỳ,8:30~22:10";
+"78 phases everyday, 1 phase per 10 minutes, 9:00-22:00"= "Mỗi ngày có 78 kỳ,10 phút một kỳ,09:00~22:00";
+
+"The Latest Lottery Draw"= "Giải thưởng mới";
+"The Past Lottery Draw"= "Giải thưởng trước đây";
+//"Mark Six Lottery Draw Countdown"= "Đếm ngược mở thưởng mới nhất:";
+//"Mark Six Lottery Draw Countdown"= "Đếm ngược mở thưởng HồngKông";
+//"Seven-Color Lottery Draw Countdown"= "Đếm ngược mở thưởng Xổ số bảy sao";
+"Mark Six Lottery Draw Countdown"= "điểm ngược";
+"Seven-Color Lottery Draw Countdown"= "điểm ngược";
+
+"In Lottery Draw…"= "Đang mở thưởng···";
+"suspend"= "Hết giờ bán";
+//"d"= "Ngày";
+//"h"= "Tiếng";
+//"m"= "Phút";
+//"s"= "Giây";
+"d"= "d";
+"h"= "h";
+"m"= "m";
+"s"= "s";
+
+//"Rat"= "Chuột";
+//"Cow"= "Bò";
+//"Tiger"= "Hổ";
+//"Rabbit"= "Thỏ";
+//"Dragon"= "Rồng";
+//"Snake"= "Rắn";
+//"Horse"= "Ngựa";
+//"Sheep"= "Cừu";
+//"Monkey"= "Khi";
+//"Chook"= "Gà";
+//"Dog"= "Chó";
+//"Pig"= "Lợn";
+"Rat"= "🐀";
+"Cow"= "🐂";
+"Tiger"= "🐅";
+"Rabbit"= "🐇";
+"Dragon"= "🐲";
+"Snake"= "🐉";
+"Horse"= "🐎";
+"Sheep"= "🐏";
+"Monkey"= "🐒";
+"Chook"= "🐓";
+"Dog"= "🐕";
+"Pig"= "🐖";
+
+//"Special" = "Số đặc";
+//"Number" = "biệt";
+//"Chinese" = "Sinh";
+//"Zodiac" = "tiêu";
+//"Poultry" = "Gia";
+//"&Beast" = "&cầm";
+
+//"Dragon" = "Rồng";
+//"Tiger" = "";
+//"" = "";
+
+"Special Number"= "Số đặc biệt";
+"Total"= "Tổng";
+"Chinese Zodiac"= "Sinh tiêu";
+"Poultry & Beast"= "Gia cầm";
+"O/E"= "Chẵn Lẻ";
+"O/U"= "Tài xỉu";
+"Color"= "Màu";
+"Score"= "Điểm";
+"Beast"= "Dã thú";
+
+"Red"= "Màu đỏ";
+"Blue"= "Màu xanh dương";
+"Green"= "xanh lá cây";
+
+"Odd"= "Chẵn";
+"Even"= "Lẻ";
+"Over"= "Tài";
+"Under"= "Xỉu";
+
+"Sum of No.1 & No.2"= "Số";
+"Dragon/Tiger"= "Rồng Hổ";
+"Champion"= "Quán quân";
+"Runner-up"= "Á quân";
+"Mantissa"= "Số đuôi";
+"Lottery Draw List"= "danh sách mở thưởng";
+"Customized Lottery"= "Đặt xổ số";
+
+"Have customized lottery"= "Đã đặt xổ số";
+"Long press to drag label sequence"= "Ấn lâu để thay đổi thứ tự nhãn";
+"You have no customized lottery"= "Bạn chưa đặt xổ số";
+
+"Long press to drag label sequence"= "Ấn lâu để thay đổi thứ tự nhãn";
+"You have no customized lottery"= "Bạn chưa đặt xổ số";
+
+"Click to customize more lotteries"= "Click để đặt thêm";
+"Reset"= "Đặt lại";
+
+"Sum"= "Hòa ";
+"Confirm"= "Xác nhận";
+"1st Ball"= "Bóng đầu tiên";
+"2nd Ball"= "Bóng thứ hai";
+"3rd Ball"= "Bóng thứ ba";
+"4th Ball"= "Bóng thứ tư";
+"No.1"= "Vị thứ 1";
+"No.2"= "Vị thứ 2";
+"No.3"= "Vị thứ 3";
+"No.4"= "Vị thứ 4";
+"No.5"= "Vị thứ 5";
+"No.6"= "Vị thứ 6";
+"No.7"= "Vị thứ 7";
+"Third"= "Danh thứ ba";
+"Fourth"= "Danh thứ tư";
+"Fifth"= "Danh thứ nam";
+"Poultry"= "Gia cầm ";
+"Countdown:"= "điểm ngược";
+"Mon."= "Thứ Hai";
+"Tues."= "Thứ Ba";
+"Wed."= "Thứ Tư";
+"Thur."= "Thứ Nam";
+"Fri."= "Thứ Sáu";
+"Sat."= "Thứ Bảy";
+"Sun."= "Chủ nhật";
+
+//"="="="="="="="=4.Phần chuyển đổi ngôn ngữ"="="="="="="="="=
+"Save"= "Lưu";
+"NoSave"= "Không lưu";
+"Simplified Chinese"= "Tiếng trung giản thể";
+"Traditional Chinese"= "Tiếng trung truyền thống ";
+
+//"="="="="="="="=5.Phần giới thiệu sản phẩm"="="="="="="="="=
+
+"Product Brief Introduction"= "Giới thiệu sản phẩm";
+"PC"= "PC";
+"WAP"= "WAP";
+"Wechat Subscription Number"= "Số thuê bao WeChat";
+"Official WeChat group"= "Nhóm WeChat chính thức";
+"Customer Service Phone"= "Điện thoại dịch vụ khách hàng";
+"Official QQ group"= "Nhóm QQ chính thức";
+"Sina Weibo"= "Sina Weibo";
+
+"Hua Ying Haile all rights reserved"= "Bản quyền thuộc Hoa Hải Lạc Doanh";
+
+"Copyright By of Shenzhen Hua Ying nano Network Technology Co. Ltd."= "Copyright By CTHH Khoa học và Công nghệ mạng Hoa Hải Lạc Doanh TP. Thâm Quyến";
+"One Score, concentrating on sports score and lottery draw, currently has the fastest display speed of scores and lotteries in the industry"= "Tỷ số nhất-sản phẩm chuyên kết quả bóng đá và giải thưởng xổ sổ,kết quả bóng đá và  giải thưởng  nhanh nhất.Đứng đầu trong lĩnh vực này。";
+"Text copied"= "Văn bản đã sao chép";
+"LinkURL copied"= "Liên kết đã sao chép";
+
+//"="="="="="="="=6.Phần mạng và làm mới"="="="="="="="="=
+"Pull-down to refresh"= "Kéo xuống để làm mới";
+"Loosen to refresh"= "Nới lỏng để làm mới";
+"Refreshing…"= "Đang cập nhật...";
+"Last Update"="Cập nhật  cuối cùng";
+"Loading more data…"= "Đang cập nhật thêm...";
+"Not more data"= "Không có dữ liệu thêm... ";
+
+"No Favourite"="Tạm thời chưa có yêu thích";
+"Slide left to follow this match"="Trượt để quan tâm giải này";
+"Under your screening condition, there is 0 match(s)"="Cuộc giải đáu tìm theo yêu cầu bạn chọn là có 0 trận";
+"Your current network is poor..."="Không có mạng";
+
+"Your current network is poor"= "Không có mạng";
+"Please check"= "Xin kiểm tra mạng sau";
+"No Match"= "Tạm thời chưa có trận đấu";
+"Match data load failed"= "Dữ liệu giải đấu tải xống chưa thành công ";
+
+"It seems to be disconnected with the Internet"= "Đã bị gián đoạn";
+
+"Refresh"= "Làm mới";
+
+"Cellular mobile data has been closed"= "Điểm truy cập cá nhân đã tắt";
+"Open cellular mobile or wireless LAN to access data"= "Xin nhập điểm truy cập cá nhân hoặc wifi  để phòng vấn lữ liệu ";
+"OK"= "tốt";
+
+"500error"= "Yêu cầu bất thường, xin vui lòng thử lại sau";
+"close"= "Tắt";
+"retry"= "Đặt lại";
+"edit"= "Biên tập";
+"EditSuccess"= "thay đổi thành công";
+
+//"="="="="="="="=7 Bộ phần bóng rổ"="="="="="="="="="="=
+"basketBall"= "Tỷ số bóng rổ";
+"halfOrAllScore"= "Tổng nửa/tất cả";
+"allScoreDifference"= "Khoảng cách tổng số";
+"singleScore"= "Ghi bàn thời gian duy nhất";
+"basketballRanking"= "Xếp hàng";
+"basketballNotShow"= "Không";
+"winOrFail"= "Thắng thua";
+"basketballHomeTeam"= "Đội chủ";
+"basketballAll"= "Tổng";
+"basketballMatchWarn"= "Nhắc nhở trận đấu";
+"basketballOddsWarn"= "Nhắc nhở tỷ lệ ";
+"BBReset"= "Đặt lại";
+"NO Follow Match"= "Tạm thời chưa có quan tâm";
+"SelectBasketballEvent"= "lựa chọn bóng rổ";
+"basketballSet"= "Cài đặt bóng rổ";
+
+//"="="="="="="="=8 Chi tiết bóng đá"="="="="="="=
+"Match"= "Trực tiếp";
+"Analysis"="Phân tích";
+"Index"="Chỉ số";
+"Kick-off"="Thời gian giải thưởng";
+"Weather"="Thời tiết";
+"Stadium"="Địa điểm";
+"Starting"="Dự Phát";
+"No badge"="Chưa có logo team ";
+"Text Live"="Con chữ ";
+"Line-up"="Tình hình";
+"Corner Trend"="Xu hướng phạt góc ";
+"Danger Trend"="Xu hướng tấn công và phòng thủ";
+"Danger"="nguy hiểm";
+"on target"="Sút đúng";
+"off target"="Sút lệch";
+"Statistics"="Thống kê lữ liệu";
+"HT"="HT";
+"FT"="FT";
+"HT2"="HT";
+"HT3"="HT";
+"FT2"="FT";
+"Home Team"="Đôi chủ";
+"Away Team"="Đội khách";
+"Time"="Thời gian";
+"Corner"=" Phạt góc";
+"Home List"="Danh sách đội chủ ";
+"Away List"="Danh sách đội chủ";
+"No starting"="Tạm thời chưa có dự phát";
+"No lineup"="Tạm thời chưa có tình hình";
+"Match Data"="Thống kê";
+"Shoots"="Sút gôn";
+"Saves"="Chữa cháy";
+"Corners"="Góc phạt";
+"Offsides"="Vượt vị";
+"Yellow Cards"="thẻ hoàng";
+"Red Cards"="Thẻ đỏ";
+"Shot on goalpost"="trung trụ";
+"Fouls"="Phạm quy";
+"Throw-ins"="Bóng giới ngoài";
+"Free kicks"="Đá phạt";
+"Dangerous free kick"="Đá phạt nguy hiểm";
+"Please look forward to..."="Sắp ra mắt";
+"No data"="Tạm thời chưa có lữ liệu";
+"No start"="Chưa mở";
+"Mid"= "HT";
+"No Live Data"= "Tạm thời chưa có tin trực tiếp";
+
+"Good"= "晴";
+"Windy"= "凤";
+"Stomy"= "小雨";
+"Rainy"="大雨";
+"Snowy"= "雪";
+"VeryHot"= "很热";
+"HeavyRain"= "大雨";
+"LightRain"= "小雨";
+"Cloudy"= "多云";
+"HeavySnowy"= "大雪";
+"LightSnowy"= "小雪";
+"Sleet"= "雨夹雪";
+"HeavyWindy"= "大风";
+"LightWindy"= "小风";
+"Sunny"= "晴";
+"WHotv"= "热";
+"Mild"= "温和";
+"Cold"= "寒冷";
+"Fog"= "雾";
+"Thunderstorm"= "雷夹雨";
+"Live Over"= "FT";
+"Live Over Msg"= " Hết trận, cảm ơn bạn đã xem！";
+"Click or pull up to load more"= "Click hoặc kéo trên để cập nhật thêm";
+
+"match cancel"= "Hủy";
+"match live cancel"="Hủy trực tiếp";
+"match delay"="Hoãn lại";
+"match cut"="Tạm dừng";
+"match undetermined"="Chưa quyết định";
+"match interrupt"="Gián đoạn";
+"Trend"="Xu hướng";
+"Event"="Sự kiện";
+
+"Title_HomeCorner"= "đội chủ  phạt góc ";
+"Title_GuestCorner"= "đội khách  phạt góc";
+
+"Title_HomePenaltyKick"= "Đội chủ phạt bóng";
+"Title_GuestPenaltyKick"= "Đội khách phạt bóng";
+
+"Title_HomeGoal"= "Đội chủ ghi bàn";
+"Title_GuestGoal"= "Đội khách ghi bàn";
+
+"Title_HomeCancelGoal"= "Hủy đội chủ ghi bàn";
+"Title_GuestCancelGoal"= "Hủy đội khách ghi bàn";
+
+"Title_HomeRedCard"= "Đội chủ thẻ đỏ";
+"Title_GuestRedCard"= "Đội khách thẻ đỏ";
+
+"Title_HomeYellowToRed"= "Đội chủ hai thẻ hoàng thay thẻ đỏ";
+"Title_GuestYellowToRed"= "Đội khách hai thẻ hoàng thay thẻ đỏ";
+
+"Title_HomeSubstitution"= "Đội chủ thay người";
+"Title_GuestSubstitution"= "Đội khách thay người";
+"Title_Number"= "Số";
+
+"Event_Substitution"= "Thay người";
+"Event_Zhang"= "Trang";
+"Event_Ge"= "Cái";
+"Event_Substitution_In"= "Hiệp 1";
+"Event_Substitution_Out"= "Hiệp 2";
+"Event_Substitution_format" = "Cầu thủ số %@ %@ vào sân Cầu thủ số %@ %@ ra sân";//@"Cầu thủ số 9 张三 vào sân Cầu thủ số 10 李四 ra sân"
+//Tỷ lệ chi tiết Bóng đá
+"footBallHomeTeam"= "Đội chủ";
+"footBallGuestTeam"= "Đội khách";
+"footBallHomeTeamLineChart"= "Đội chủ ——";
+"footBallGuestTeamLineChart"= "Đội khách ——";
+"footBallAttack"= "Tấn công và phỏng thủ";
+"footBallCorner"= " Phạt góc";
+"footBallTime"= "Thời gian";
+
+"footBallInstantOdd"= "Ngay";
+"footBallInitialOdd"= "Đầu";
+"footBallHand"= "O/U";
+"footBallHomeWin"= "Đội chủ thắng";
+"footBallDraw"= "Hòa";
+"footBallGuestWin"= "Đội khách thắng";
+"company"= "Công ty";
+"footBallBig"= "Tài";
+"footBallSmall"= "Xỉu";
+
+"footBallIndexNoData1"= "Tạm thời chưa có lữ liệu kèo Châu á";
+"footBallIndexNoData2"= "Tạm thời chưa có lữ liệu tỷ lệ kèo Châu âu";
+"footBallIndexNoData3"= "Tạm thời chưa có lữ liệu tỷ lệ kèo Tài xỉu";
+
+"letBall"= "Chấp bóng";
+"Rose plate"= "Kèo trở lên";
+"upOrDownPlate"= "kém lên xuống";
+"Down plate"= "Kèo hạ xuống";
+"first plate"= "Kèo đầu tiên";
+//Phân tích chi tiết về bóng đá
+//"FBDataScore_Win_Equ_Fail"= "thắng/hòa/thua";
+"FBDataScore_Win_Equ_Fail"= "W/D/L";
+"FBAnalysis_Win"= "Thắng";
+"FBAnalysis_Equ"= "Hòa";
+"FBAnalysis_Fail"= "Thua";
+"FBAnalysis_Win2"= "W";
+"FBAnalysis_Equ2"= "D";
+"FBAnalysis_Fail2"= "L";
+"FBAnalysis_WinRate"= "Chiến thắng";
+"FBAnalysis_Goal"= "Ghi";
+//下方不要重用，不要改动，是分析页面拼成的一句话，双方近期 6 次交锋、主队近期 6 场、客队近期 6 场
+//"FBAnalysis_Double"= "Gần hai đội";
+"FBAnalysis_Double"= "kỷ lục";
+//"FBAnalysis_Home"= "Gần đội chủ";
+"FBAnalysis_Home"= "kỷ lục";
+//"FBAnalysis_Guest"= "Gần đội khách";
+"FBAnalysis_Guest"= "kỷ lục";
+//"FBAnalysis_Pk"= "Trận giao phong";
+"FBAnalysis_Pk"="trận gần nhất hai biên";
+//"FBAnalysis_Spot"= "Trận";
+"FBAnalysis_Spot"= "trận đấu gần nhất đội chủ";
+"FBAnalysis_Spot2"= "trận đấu gần nhất đội khách";
+"FBFBAnalysis_Lose" = "mất";
+"FBFBAnalysis_Get" = "Ghi";
+
+
+"FBAnalysis_BallTeamRank"= "Xếp hạng tuyển đội";
+"FBAnalysis_MatchResultCompare"= "Tương quan thành tích";
+"FBAnalysisHomeAndGuestCompare"= "Tương quan chủ khách";
+"FBAnalysis_GoalPerMatch"= "Trận trung bình ghi bóng";
+"FBAnalysis_LossPerMatch"= "Trận trung bình mất bóng";
+"FBAnalysis_Time"= "Thời gian";
+"FBAnalysis_MatchType"= "Trận đấu";
+"FBAnalysis_MatchResult"= "Kết quả";
+"FBAnalysis_TeamRank"= "Bảng xếp hạng";
+"FBAnalysis_DataCount"= "Giới thiệu độc quyền";
+"FBAnalysis_GoalAndLoss"= "Bóng ghi mất";
+"FBAnalysis_HistoryBattle"= "Trận đánh lịch sử";
+"FBAnalysis_HomeTeamState"= "Tình hình gần đây đội chủ";
+"FBAnalysis_GuestTeamState"= "Tình hình gần đây đội khách ";
+"FBAnalysis_TipNotMatchBetweenBoth"= "Hai bên tậm thời  chưa có lịch sử đụng độ ";
+"FBAnalysis_TipNotMatchForHome"= "Gần đây đội chủ không có trận đánh";
+"FBAnalysis_TipNotMatchForGuest"= "Gần đây đội khách không có trận đánh";
+"FBAnalysi_TipNotAnalysis"= "Trận đấu này tậm thời chưa có phân tích";
+"FBAnalysis_Recommend"= "Giới thiệu";
+
+//Bằng xếp hạng bóng đá
+
+"integralTable"= "Bằng xếp hạng";
+"FBmatch"= "Giải";
+"goalAndLoss"= "Ghi/Mất";
+"abs"= "Thắng";
+"FBround"= "Vòng ";
+"selectRound"= "Vòng lựa chọn";
+
+"NO Race"= "Tạm thời chưa có lịch thi đấu";
+"selectRound"= "Vòng lựa chọn";
+"Done"= "Hoàn thành";
+//"Points" = "xếp hạng";
+"Points" = "Pts";
+"No integralTable" = "Tạm không có BXH";
+//Thông tin bóng đá
+"HotInfo"= "Thông tin hot";
+"FBInfo"= "Thông tin bóng đá";
+"Recommend"= "Dự đoán độc quyền";
+"Sports"= "Sổ xổ cạnh tranh";
+"Media"= "Truyền thông";
+"Result"= "Sổ xổ thắng thua";
+"Deep"= "Phân tích hiểu thấu";
+"See detail data"= "Kiểm tra  dữ liệu chi tiết ";
+"NoInfoYet" = "Tạm không có thông tin";
+"Recommend" = "thiệu";
+
+//Video  bóng đá
+"FootBallNoVideo"= "blankPageView";
+
+//Chia sẻ
+"Share_wechat"= "WeChat";
+"Share_friendCircle"= "Vòng tròn của bạn bè";
+"Share_tencent"= "QQ";
+"Share_qqzone"= "Không gian";
+"Share_sinaweibo"= "Weibo";
+"Share_copyLink"= "copy";
+"Share To" = "Share to";
+"A score of 5 seconds."= "Tỷ số nhất-Kết quả bóng đá nhanh hơn 5 giây。";
+"A score, score and focus on sports lottery products, the score, corner response speed of leading industry."= "Tỷ số nhất-sản phẩm chuyên kết quả bóng đá và giải thưởng xổ sổ,kết quả bóng đá và  giải thưởng  nhanh nhất.Đứng đầu trong lĩnh vực này。";
+"The fastest live event information, as soon as possible in a score."= "Thông tin sự kiện trực tiếp nhanh nhất, tất cả trong tỷ số nhất。";
+
+//Đưa ra hình ảnh
+"NO League"= "blankPageView";
+"NO NetWork"= "blankPageView";
+"selete one company at least"= "Chọn ít nhất bất kỳ một công ty.";
+
+//Đăng nhập
+"Personal Center"= "Trung tâm cá nhân";
+"Login/Register"= "Đăng nhập/đăng ký";
+"More Settings"= "Cài đặt thêm";
+"Modify Password"= "Thay đổi mật khẩu";
+"Exit Current Account"= "Thoát khỏi tài khoản hiện tại";
+"Password consists of 6-16 bit letters (case sensitive), numeric or character"="Mật khẩu bởi 6-16 chữ cái (trường hợp nhạy cảm), số hoặc ký tự";
+"OriginalPassword"="Mật khẩu cũ";
+"Please enter a new password"="Xin nhập mật khẩu mới";
+"Please confirm the new password"="Xin xác nhận mật khẩu mới";
+"ForgetPassword"="Quên mật khẩu";
+"Please enter the original password"="Xin nhập mật khẩu cũ";
+"Submit"="Gửi";
+
+"SignOneScore"= "Đăng nhập tỷ số nhất";
+"EnterThePhoneNumber"= "Click nhập số di động  để đăng nhập";
+"PleaseEnterAPassword"= "Xin nhập mật khẩu ";
+"Login"= "Đăng nhập";
+"RegisterImmediately"= "Đang ký ngay";
+"ThirdPartyLogin"= "Đăng nhập bên thứ ba";
+"PleaseEnteryourPasswordAgain"= "Xin nhập mật khẩu một lần nữa";
+"Regist"= "Đang ký";
+"UserRegistration"= "Người đăng ký";
+"phoneNumber"= "Số dinh động";
+"SMSVerificationCode"= "Mã xác minh tin nhắn";
+"SendSMSVerificationCode"= "Gửi mã xác minh tin nhắn";
+"NextStep"= "Next";
+"Registration means that you agree to a score of the user agreement"= "Đăng ký thì là bạn đồng ý 《Hiệp định tài》củaTỷ số nhất  ";
+"UserAgreement"= "《Hiệp định tài》";
+"After a second to send back"= "Gửi lại giây";
+"AccountFound"= "Tìm lại tài khoản";
+"Assure"= "Xác định";
+
+//Lời nhắc đăng ký
+//LOCALIZATION(@)
+"ThirdPartyLoginDoesNotSupportTheChangePasswordOh!"= " Bên thứ ba đăng nhập không ủng hộ thay đổi mật khẩu ";
+"YouAreNotLoggedIn!"= "Bạn chưa đăng nhập！";
+"YBFReminder"= "Vui lòng lưu ý";
+"Exit the account?"= "Xác định thoát tài khoản？";
+"YBFYES"= "Vâng";
+"YBFNO"= "Không";
+"Background Jun lost!"= "Sau sân khấu bị lạc！";
+"Two times the password is not consistent!"= "Mật khẩu nhấn hai lần không phù hợp！";
+"Password length should be in 6-16 bit!"= "Chiều dài mật khẩu phải có 6-16！";
+"Password modification success!"= "Mật khẩu thay đổi thành công！";
+"Cell phone number can not be empty!"= "Số điện thoại không thể để trống！";
+"You enter the phone number is wrong!"= "Nhập số điện thoại của bạn là sai！";
+"Password can not be empty!"= "Mật khẩu không thể để trống！";
+"Verification code cannot be empty!"= "Mã này không thể để trống！";
+"The password you entered is incorrect!"= "Mật khẩu bạn nhập không đúng định dạng！";
+"The number you entered is not the current logon account!"= "con số bạn nhập vào không phải là tài khoản đăng nhập hiện tại！";
+"Get verification code"= "Lấy mã số";
+"Please register first!"= "Xin bạn đăng ký trước！";
+//tìm kiém
+"SearchPlaceholder"= "Xin nhập  tên tuyển đội";
+"SearchNoResult"= "Không tìm thấy được tuyển đội của bạn";
+"SearchFail"= "Yêu cầu thất bại";
+
+"System error" = "Lỗi hệ thống";
+"Transfer parameters are incorrect" = "Truyền tham số không đúng";
+"Verification code error" = "Mã xác nhận lỗi";
+"Verification code is invalid" = "Mã xác nhận đã hết hạn";
+"Two send interval shall not be less than 60 seconds" = "Hai khoảng thời gian truyền phải hơn 60 giây";
+"The phone number has been registered" = "số điện thoại đã đăng ký";
+"Cell phone number is not legal" = "Số điện thoại không hợp pháp";
+"user does not exist" = "Tài khoản không tồn tại";
+"SMS failure" = "Gửi SMS thất bại";
+"The password you entered is incorrect." = "Mật khẩu lỗi";
+"The original password you entered is incorrect." = "mật khẩu cũ không đúng ";
+
+"The user is not logged in" = "Người dùng chưa đăng nhập";
+"True name error" = "Tên thật lỗi";
+"ID card format error" = "cách thức ID không đúng";
+"Background error" = "lỗi nền";
+"Registered success, has logged in" = "Đăng ký thành công ,đã đăng nhập";
+"UserProtocal" = "Hiệp định tàikhoản";
+
+"today"                                         = "Hôm nay";
+"yesterday"                                     = "Hôm qua";
+"tomorrow"                                      = "Ngày mai";
+"Difference"                                    = "khoảng khách số";
+"Back to list"                                  = "trở vệ danh sách";
+
+//国际化新添加
+"Please enter username" = "Xin nhập tên đăng nhập ";
+"User name from the 3-16 bit letter (case sensitive) or digital composition" = "Tài khoản gồm 3-16 chữ số  (khác biệt chữ to nhỏ) ";
+"UserName length should be in 3-16 bit" = "Tên đăng nhập nên có 3-16 bit";
+"UserName format error" = "Cách thức tài khoản lỗi";
+"The username has been registered" = "Tên truy cập đã tồn tại";
+"Register failed" = "Đăng ký thất bại ";

@@ -1,0 +1,106 @@
+/* 
+  InfoPlist.strings
+  YiBiFen
+
+  Created by caohuihui on 15/12/17.
+  Copyright © 2015年 hhly. All rights reserved.
+*/
+"Game_Guess"="Game Guess";
+"Information"="资讯";
+"GuessCenter"="竞猜中心";
+"DataBase"="资料库";
+"PersonCenter"="个人中心";
+"Back"="返回";
+//设置
+"HomeSetting"="设置";
+"Switch_Language"="语言切换";
+"About_us"="关于我们";
+"HomeSettingShareFriends"="分享好友";
+"HomeSettingMark"="给我们评分";
+//登录
+"Personal_Center"="个人中心";
+"User_Login"="用户登录";
+"Register_now"="立即注册";
+"More_Settings"="更多设置";
+"Modify_Password"="修改密码";
+"Exit_Current_Account"="退出当前账号";
+"Password_consists_of_6-16_bit_letters_(case_sensitive),_numeric_or_character"="密码由6-16位字母(区分大小写)、数字或下划线组成";
+"OriginalPassword"="原密码";
+"NewPassWord"="新密码 ";
+"Please_enter_a_new_password"="请输入新密码";
+"Please_confirm_the_new_password"="请确认新密码";
+"ForgetPassword"="忘记密码";
+"Please_enter_the_original_password"="请输入原密码";
+"Submit"="提交";
+"EnterThePhoneNumber"="请输入手机号码登录";
+"PleaseEnterAPassword"="请输入密码";
+"Login"="登 录";
+"RegisterImmediately"="立即注册";
+"ThirdPartyLogin"="第三方登录";
+"PleaseEnteryourPasswordAgain"="请再次输入密码";
+"Regist"="注 册";
+"UserRegistration"="用户注册";
+"phoneNumber"="手机号码";
+"SMSVerificationCode"="短信验证码";
+"SendSMSVerificationCode"="获取验证码";
+"NextStep"="下一步";
+"Registration_means_that_you_agree_to__Bet_Game"="注册即表示您同意游戏竞猜";
+"UserAgreement"="《用户协议》";
+"After_a_second_to_send_back"="秒后重新发送";
+"Assure"="确 定";
+"FindPassword"="密码找回";
+"passwordSetting"="密码设置";
+"Restpasswordsuccess"="新密码成功";
+//登录注册的提示语
+//LOCALIZATION(@)
+"enter_your_cell_phone_number"="请输入手机号码";
+"ThirdPartyLoginDoesNotSupportTheChangePasswordOh!"="第三方登录不支持修改密码";
+"YouAreNotLoggedIn!"="您还未登录";
+"YBFReminder"="温馨提示";
+"Exit_the_account?"="确定退出账号？";
+"YBFYES"="是";
+"YBFNO"="否";
+"Two_times_the_password_is_not_consistent!"="两次输入的密码不一致";
+"Password_length_should_be_in_6-16_bit!"="密码是在6-16字母和数字组成";
+"Password_length_should_not_be_blow_of_6"="密码不能小于6位数";
+"Password_length_should_not_upon_16"="密码不能大于16位数";
+"Password_modification_success!"="密码修改成功";
+"Cell_phone_number_can_not_be_empty!"="手机号码不能为空";
+"You_enter_the_phone_number_is_wrong!"="您输入的手机号码有误";
+"Sorry_this_number_is_registered_please_login"="对不起,此号码已经注册,请直接登录";
+"Password_can_not_be_empty!"="密码不能为空";
+"Verification_code_error!"="验证码错误";
+"The_password_you_entered_is_incorrect!"="您输入的密码格式有误";
+"The_number_you_entered_is_not_the_current_logon_account!"="您输入的号码不是当前的登录账号";
+"Get_verification_code"="获取验证码";
+"Please_register_first!"="请您先注册";
+"SearchFail"="请求失败";
+"get_back_again"="重新获取";
+"Countdown"="倒计时";
+"System_error"="系统错误";
+"have_Sended"="已发送 ";
+"Transfer_parameters_are_incorrect"="传递参数有误";
+"Verification_code_error"="验证码错误";
+"Verification_code_nil"="验证码不能为空";
+"Verification_code_format_error"="验证码格式不对";
+"Verification_code_is_invalid"="验证码已失效";
+"Two_send_interval_shall_not_be_less_than_60_seconds"="两次发送间隔不得小于60秒";
+"The_phone_number_has_been_registered"="该手机号已注册";
+"Cell_phone_number_is_not_legal"="手机号码不合法";
+"user_does_not_exist"="用户不存在";
+"SMS_failure"="短信发送失败";
+"The_password_you_entered_is_incorrect."="登录名或密码错误";
+"The_original_password_you_entered_is_incorrect."="您输入的原密码有误";
+"The_user_is_not_logged_in"="该用户未登录";
+"True_name_error"="真实姓名错误";
+"Background_error"="后台报错";
+"NetWork_error"="网络错误";
+"Registered_success,_has_logged_in"="注册成功,已登录";
+"UserProtocal"="用户协议";
+"Please_enter_username"="请输入用户名";
+"User_name_from_the_3-16_bit_letter_(case_sensitive)_or_digital_composition"="用户名由3-16位字母(区分大小写)或数字组成";
+"UserName_length_should_be_in_3-16_bit"="用户名长度应在3-16位";
+"UserName_format_error"="用户名格式错误";
+"The_username_has_been_registered"="用户名已注册";
+"Register_failed"="注册失败，请稍后再试";
+"HomeSettingMark"="给我们评分";

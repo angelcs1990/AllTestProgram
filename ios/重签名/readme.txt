@@ -1,0 +1,1 @@
+请把mobileprovision文件放在同目录下

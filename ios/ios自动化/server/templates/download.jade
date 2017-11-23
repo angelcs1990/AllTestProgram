@@ -1,0 +1,31 @@
+doctype html
+html
+	head
+		title iOS在线安装
+		meta(http-equiv="Content-Type" content="text/html; charset=utf-8")
+		meta(content="telephone=no" name="format-detection")
+		meta(name="viewport" content="width=320,maximum-scale=1,user-scalable=no")
+		link(rel="stylesheet" href="/stylesheets/style.css")
+		script(type='text/javascript').
+			var g_firstTime = 0
+			function downloadFile(v)
+			{
+				var date = new Date();
+				var curTime = date.getTime();
+				if (curTime - g_firstTime < 3000) {
+					alert("点击过快,如果你已经在安装了，就请返回桌面骚等片刻")
+					return false;
+				}
+				var url = v;
+				g_firstTime = curTime;
+				window.open(url, "_self")
+				return true;
+			}
+	body
+		h3
+			a(id="cer" href=addrcer) 如果出现【无法验证服务器身份】或【无法连接到】，请点击此链接安装证书
+		each item in items
+			img(src=item.img)
+			h4
+				a(href="javascript:downloadFile('#{item.addr}')")
+					span.name #{item.appName}
