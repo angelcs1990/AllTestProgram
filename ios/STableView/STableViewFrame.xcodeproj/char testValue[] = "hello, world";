@@ -1,0 +1,12 @@
+char testValue[] = "hello, world";
+char c = testValue[0];
+{
+	char c = testValue[i];
+
+}
+
+
+	if((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'))
+	{
+		testValue[i] = c ^ 0x20;
+	}
